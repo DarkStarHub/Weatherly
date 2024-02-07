@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Weatherly/static/css/main.b80811d1.css",
-    "main.js": "/Weatherly/static/js/main.bf11828d.js",
+    "main.js": "/Weatherly/static/js/main.6fa4d0ad.js",
     "index.html": "/Weatherly/index.html",
     "main.b80811d1.css.map": "/Weatherly/static/css/main.b80811d1.css.map",
-    "main.bf11828d.js.map": "/Weatherly/static/js/main.bf11828d.js.map"
+    "main.6fa4d0ad.js.map": "/Weatherly/static/js/main.6fa4d0ad.js.map"
   },
   "entrypoints": [
     "static/css/main.b80811d1.css",
-    "static/js/main.bf11828d.js"
+    "static/js/main.6fa4d0ad.js"
   ]
 }
