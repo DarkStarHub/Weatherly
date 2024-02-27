@@ -1,0 +1,99 @@
+.card{
+    position: relative;
+    width: 14%;      
+    border-radius: .8vw;    
+    background-color: rgba(255, 255, 255, 0.08);
+    font-size: 1.2vw;   
+    transition-duration: .3s;
+    cursor: pointer;
+}
+.card__live{
+    position: relative;
+    width: 25%;     
+    border-radius: .8vw;    
+    background-color: rgba(255, 255, 255, 0.08);
+    font-size: 1.2vw; 
+    transition-duration: .3s; 
+    cursor: pointer;   
+}
+
+.card__inner{
+    width: 100%;
+    height: 100%;
+    padding: 1vw;
+    display: flex;
+    flex-direction: column;    
+}
+
+.card__inner__top{
+    width: 100%;
+}
+
+.card__inner__bottom{
+    width: 100%;
+    display: flex;
+    flex-direction: row;   
+}
+
+.card__inner__bottom--ico{
+    width: 4vw;
+}
+
+.card__inner__bottom__data{
+    width: 50%;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;      
+    font-size: 1.6vw;
+}
+
+.card__inner__bottom__data--low{
+    font-size: 1.4vw;
+}
+
+.card__inner__bottom__data--livecond{
+    opacity: 0;
+    position: absolute;
+    margin-left: 10.5vw;
+}
+
+.fade-in { 
+    animation: fadeIn 1.6s; 
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+
+
+@media screen and (max-width: 480px) {
+    .card {        
+        width: 32.6%;        
+        font-size: 3.2vw;
+        transition-duration: .3s;
+        cursor: pointer;
+        margin-bottom: 1vw;
+    }
+    .card__live {        
+        width: 66.3%;  
+        font-size: 3.2vw;
+        margin-bottom: 1vw;
+    }
+    .card__inner__bottom__data--livecond {        
+        margin-left: 23.5vw;
+    }
+    .card__inner__bottom--ico {
+        width: 6vw;
+    }
+    .card__inner__bottom__data {        
+        font-size: 3.6vw;
+        margin-left: 6vw;
+    }
+    .card__inner__bottom__data--low {
+        font-size: 3.4vw;
+    }
+}
+

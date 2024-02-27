@@ -1,0 +1,12 @@
+.mhchart__main{
+    width: 100%;      
+    overflow: auto;
+}
+
+.mhchart__main__innerscroll{
+    width: 300%;     
+    display: flex;  
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+}

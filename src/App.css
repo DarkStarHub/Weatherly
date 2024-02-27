@@ -1,0 +1,30 @@
+.search-main{
+  width: 80%;
+  margin: 5% auto;    
+}
+
+.searchSec{
+  width: 100%;
+  background: #a6b9d8;    
+  display: flex;
+  flex-direction: row;
+  border-radius: .8vw;
+  margin-bottom: 1%;
+}
+
+
+@media screen and (max-width: 480px) {
+  .search-main{
+    width: 87%;
+    margin: 5% auto;    
+  }
+  
+  .searchSec {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 3.6%;
+    align-items: center;
+  }
+}
+
+

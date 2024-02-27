@@ -1,0 +1,21 @@
+.prevSec{
+    position: relative;
+    width: 60%;
+}
+
+
+.prevSec__wrapper{
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+@media screen and (max-width: 480px) {
+    .prevSec{        
+        width: 100%;
+        border-bottom:.5px rgba(0, 0, 0, .08) solid; 
+    }
+}

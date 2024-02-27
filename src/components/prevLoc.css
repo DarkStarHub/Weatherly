@@ -1,0 +1,35 @@
+.prevCard{
+    width: 33.33%;      
+    display: flex;    
+    flex-direction: column;    
+    color: white;
+    font-size: 1.2vw;
+    cursor:pointer;
+    border-left: .5px rgba(0, 0, 0, .08) solid;    
+}
+
+.prevCard__inner{    
+    padding: 5%;;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.prevCard:hover{
+    background-color: rgba(0, 0, 0, .08);
+}
+
+
+.prevCard__inner--ico{
+    width: 25%;
+}
+
+
+
+@media screen and (max-width: 480px) {
+    .prevCard{        
+        font-size: 2.4vw;          
+    }
+}

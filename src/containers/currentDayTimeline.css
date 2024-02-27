@@ -1,0 +1,21 @@
+.chartBox{
+    position: relative;
+    width: 100%;    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 1vw;
+    /*background-color: rgba(0, 0, 0, 0.08);*/
+    margin-bottom: 1%;
+}
+
+.chartBox__inner{  
+    position: relative;
+    margin-top: 4%; 
+    width: 100%;  
+}
+
+svg {
+    -webkit-transform: translate(0px,0px); /* Safari and Chrome */
+}
+

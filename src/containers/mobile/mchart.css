@@ -1,0 +1,15 @@
+.chartBox{
+    position: relative;
+    width: 100%;    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 1vw;   
+    margin-bottom: 1%;
+}
+
+.chartBox__inner{  
+    position: relative;
+    margin-top: 1%; 
+    width: 100%;  
+}
