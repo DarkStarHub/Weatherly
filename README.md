@@ -1,6 +1,6 @@
 https://darkstarhub.github.io/Weatherly/
 
-# How I worked on this project
+# How I worked on this project  
 
 
 ## Project Summary: 
