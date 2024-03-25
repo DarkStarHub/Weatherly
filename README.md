@@ -4,7 +4,7 @@ https://darkstarhub.github.io/Weatherly/
 
 
 ## Project Summary: 
-I leveraged my expertise in React, front-end development, and responsive design to create a data visualization app that pulls data from the Visual Crossings API. My focus was on crafting a seamless user experience by ensuring dynamic updates and responsiveness across various devices.
+I leveraged my expertise in React, front-end development, and responsive design to create a data visualization app that pulls data from the Visual Crossings API. My focus was on crafting a seamless user experience by ensuring dynamic updates and responsiveness across various devices.   
 
 ### Technical Skills & Approach:
 -React: Utilized React's efficient component rendering and state management capabilities to dynamically update elements based on the incoming and ever-changing data from the API. This ensured a smooth and responsive user experience.
