@@ -16,7 +16,7 @@ I leveraged my expertise in React, front-end development, and responsive design 
 -Animations & Styling: Incorporated CSS and React media queries for animations and style adjustments, creating a visually engaging and interactive interface.  
 
 ### Chart Creation: 
-Utilized the Recharts library with some customization to design and display insightful visualizations of the data, further enriching the user's understanding.
+Utilized the Recharts library with some customization to design and display insightful visualizations of the data, further enriching the user's understanding.    
 
 ### Benefits: 
 The project demonstrates my proficiency in building dynamic and user-friendly applications using React and front-end development techniques, with a focus on creating a responsive and visually appealing experience for users across various devices.
