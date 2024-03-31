@@ -13,7 +13,7 @@ I leveraged my expertise in React, front-end development, and responsive design 
 ### Front-End Development:
 -Data Handling: Managed data in JSON format, utilizing Javascript libraries for manipulation, including regular expressions and utility functions.
 -Local Storage: Employed local storage to store user-specific information, like previously searched locations, enhancing personalization and convenience.
--Animations & Styling: Incorporated CSS and React media queries for animations and style adjustments, creating a visually engaging and interactive interface.  
+-Animations & Styling: Incorporated CSS and React media queries for animations and style adjustments, creating a visually engaging and interactive interface.     
 
 ### Chart Creation: 
 Utilized the Recharts library with some customization to design and display insightful visualizations of the data, further enriching the user's understanding.    
