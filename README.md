@@ -21,7 +21,7 @@ Utilized the Recharts library with some customization to design and display insi
 ### Benefits: 
 The project demonstrates my proficiency in building dynamic and user-friendly applications using React and front-end development techniques, with a focus on creating a responsive and visually appealing experience for users across various devices.
 
-## Challenges overcome:
+## Challenges overcome:   
 
 Here's a glimpse into the challenges encountered and how I addressed them:
 
