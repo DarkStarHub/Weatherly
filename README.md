@@ -8,7 +8,7 @@ I leveraged my expertise in React, front-end development, and responsive design 
 
 ### Technical Skills & Approach:
 -React: Utilized React's efficient component rendering and state management capabilities to dynamically update elements based on the incoming and ever-changing data from the API. This ensured a smooth and responsive user experience.
--Responsive Design: Implemented media queries and conditional rendering, enabling the app to adapt seamlessly to diverse screen sizes and devices, delivering an optimal viewing experience across platforms.  
+-Responsive Design: Implemented media queries and conditional rendering, enabling the app to adapt seamlessly to diverse screen sizes and devices, delivering an optimal viewing experience across platforms.    
 
 ### Front-End Development:
 -Data Handling: Managed data in JSON format, utilizing Javascript libraries for manipulation, including regular expressions and utility functions.
